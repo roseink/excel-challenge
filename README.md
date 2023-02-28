@@ -11,3 +11,4 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 1. Excel workbook with separate sheets for each pivot table/chart pairing. 
 2. Findings Report document
 3. Statistical Analysis: response document
+4. README.md
